@@ -1047,6 +1047,7 @@ footer p {
 .search-form {
   text-align: center;
   padding-top: 32px;
+  background-color: mediumaquamarine;
 }
 
 .search-form .search-input {
